@@ -1,2 +1,2 @@
-# NSE-jaar-2.2-opdrachten
-# Gavin Geurtsen
+# HBO-ICT Gavin Geurtsen
+# NSE-jaar-2-period 2-opdrachten
